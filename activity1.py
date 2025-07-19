@@ -1,0 +1,11 @@
+int_set={1,2,3}
+print(int_set)
+mixed_set={1,2,3.5,"EA"}
+print(mixed_set)
+dup_set={1,1,3,2,3,4,5}
+print(dup_set)
+set1=set([1,2,3])
+print(set1)
+setm={1,2,3,4,5}
+seta=setm.pop()
+print(setm)
